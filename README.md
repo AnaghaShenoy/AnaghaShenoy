@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 [![GitHub AnaghaShenoy](https://img.shields.io/github/followers/AnaghaShenoy?label=follow&style=social)](https://github.com/AnaghaShenoy)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a passionate developer with experience in building scalable and efficient software solutions. Currently enhancing my skills in backend Java development.\
 🎓 &nbsp;I'm an engineering graduate with a solid foundation in Java, SQL, and web technologies.\
 🛠 &nbsp;I've been actively involved in various software projects and continuously learning new technologies to stay updated in the fast-paced tech world.\
 🌱 &nbsp;I'm currently exploring advanced Java concepts and working on improving my skills in API development and CI/CD pipelines.\
 ✉️ &nbsp;Feel free to reach out to me for any collaborations or if you'd like to discuss tech over a cup of coffee.\
-✉️ &nbsp;You can email me at anaghashenoyr@gmail.com.
+✉️ &nbsp;You can email me at anaghashenoyr@gmail.com or connect me on Instagram at @anagha_shenoy.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 ## 📫 &nbsp; How to reach me:
 <a href="mailto:anaghashenoyr@gmail.com"><img alt="Work" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/anagha_shenoy/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+
 <!--
 ## If you like what I do
 <a href="https://www.buymeacoffee.com/anaghashenoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" width="150" ></a>
