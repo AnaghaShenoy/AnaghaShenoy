@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anagha Shenoy
+## Hello World 👋 I'm Anagha Shenoy
 
 <!--
 **AnaghaShenoy/AnaghaShenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a passionate developer with experience in building scalable and efficient software solutions. Currently enhancing my skills in backend Java development.\
-🎓 &nbsp;I'm an engineering graduate with a solid foundation in Java, SQL, and web technologies.\
+🎓 &nbsp;I'm an engineering graduate with a solid foundation in Java, SQL, Spring Boot and Web technologies.\
 🛠 &nbsp;I've been actively involved in various software projects and continuously learning new technologies to stay updated in the fast-paced tech world.\
-🌱 &nbsp;I'm currently exploring advanced Java concepts and working on improving my skills in API development and CI/CD pipelines.\
+🌱 &nbsp;I'm currently exploring Advanced Java concepts and working on improving my skills in API development and CI/CD pipelines.\
 ✉️ &nbsp;Feel free to reach out to me for any collaborations or if you'd like to discuss tech over a cup of coffee.\
 ✉️ &nbsp;You can email me at anaghashenoyr@gmail.com or connect me on Instagram at @anagha_shenoy.
 
