@@ -1,4 +1,4 @@
-## Hello World 👋 I'm Anagha Shenoy
+## Helloo👋 I'm Anagha Shenoy
 
 <!--
 **AnaghaShenoy/AnaghaShenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
